@@ -1,1 +1,1 @@
-11 long list
+script that prints the type of the file named iamafile
